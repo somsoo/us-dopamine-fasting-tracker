@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-dopamine-fasting-tracker.enjoy-onepage.com/sitemap.xml
